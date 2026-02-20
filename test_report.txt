@@ -1,0 +1,6 @@
+Test Execution Summary
+----------------------
+Total Tests: 5
+Passed: 3
+Failed: 2
+Success Rate: 60.00%
